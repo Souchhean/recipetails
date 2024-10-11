@@ -1,0 +1,739 @@
+[
+    { 
+      "title": "Pancake",
+      "category": "breakfast",
+      "image": "/img/pancake.jpg",
+      "description": "A fluffy pancake recipe",
+      "ingredients": ["1 ½ cups all-purpose flour", "3 ½ teaspoons baking powder", "1 tablespoon white sugar", "¼ teaspoon salt, or more to taste", "1 ¼ cups milk", "3 tablespoons butter, melted", "1 egg"],
+      "instructions": [
+        "Sift flour, baking powder, sugar, and salt together in a large bowl. Make a well in the center and add milk, melted butter, and egg; mix until smooth.", 
+        "Heat a lightly oiled griddle or pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake; cook until bubbles form and the edges are dry, about 2 to 3 minutes. Flip and cook until browned on the other side. Repeat with remaining batter."
+    ],
+     "isFavorite": false
+    },
+
+    {  
+      "title": "English Breakfast",
+      "category": "breakfast",
+      "image": "/Img/English-breakfast.jpg",
+      "description": "A classic delicious English breakfast ",
+      "ingredients": ["2 medium pork sausage patties", "1 tomato", "2 tablespoons butter", "2 slices bacon", "¼ (16 ounce) package frozen hash browns", "1 (6 ounce) package sliced fresh mushrooms", "1 (15 ounce) can baked beans", "1 large egg", "2 slices bread", "salt and ground black pepper to taste", "Chhoped sprig fresh parsley"],
+      "instructions": [
+        "Preheat the oven to 425 degrees F (220 degrees C).", 
+        "Brown the sausages on all sides in a frying pan over medium heat for 5 minutes. Transfer to a baking dish.",
+        "Bake the sausages in the preheated oven for 10 minutes.",
+        "Score a cross into the bottom of the tomato and place, cross-side up, in the baking dish with the sausages.",
+        "Bake the sausages and the tomato for 10 minutes. Turn off the oven, but do not remove the sausages and tomato.",
+        "Meanwhile, in the frying pan used to brown the sausages, melt 1 tablespoon of butter and fry the bacon, hash browns, and the mushrooms over high heat until the mushrooms have softened, the bacon begins to crisp, and the hash browns turn golden, about 7 minutes. Transfer to the oven to keep warm.",
+        "Pour beans in a small saucepan and cook, stirring frequently, over medium heat until heated through.",
+        "Crack egg into a skillet over medium heat. Cook until outer edges become opaque, about 1 minute. Cover, reduce heat to low, and cook until whites are completely set, about 4 minutes.",
+        "Toast bread and spread remaining butter over. Bring together the sausages, hash browns, bacon, beans, tomato, mushrooms, fried egg, and toast on a warm serving plate. Season with salt and pepper, garnish with parsley, and serve immediately."
+    ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Cambodian Pork & Rice",
+      "category": "breakfast",
+      "image": "/Img/Cambodian-pork-rice.jpg",
+      "description": "A traditional Cambodian breakfast dish",
+      "ingredients": ["400 g pork shoulder", "2 garlic cloves", "1 ½ tbsp light soy sauce", "40 g palm sugar", "125 ml coconut milk", "1 ½ tbsp fish sauce", "1 lime"],
+      "instructions": [
+        "To make the marinade, place ingredients in a plastic container and stir to combine. Add the pork, coating all the pieces, put on the lid and marinate for at least 3 hours (preferably overnight) in the fridge.", 
+        "Half an hour before cooking, remove the pork from the fridge and let it come up to room temperature. Heat the barbecue or charcoal grill and let the charcoal heat until white hot.",
+        "Remove the pork from the marinade and brush off any excess. Place on the grill and cook for around 3 minutes a side until cooked through. The meat should be a little charred and caramelised. Serve immediately on a bed of steamed rice alongside the pickled vegetables."
+    ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Num Banh Chok",
+      "category": "breakfast",
+      "image": "/Img/Num-Banh-Chok.jpg",
+      "description": "Cambodian noodle dish with fish gravy",
+      "ingredients": ["1 and 1/2kg of num banh chok", "500-700 g of freshwater fish", "3tbsp kroeung", "3/4 cup of coconut milk", "50g prahok (fermented fish) or anchovy", "1and1/2tbsp of palm sugar", "2tbsp of white sugar", "3tbsp of fish sauce", "3tbsp of salt", "Banana blossom, sesbania, cucumber, long green bean, bean sprouts, water lily and cabbage", "dried chilli flakes or powder and lime"],
+      "instructions": [
+        "Bring 2-2.5 l water to a boil, lower heat and add in the fish. Once the fish is cooked, remove it from the stock. Set the stock aside and debone the fish. Pound the kroeung, sugar, salt and fish flesh together.", 
+        "Next, bring the fish stock to a boil, then add in the prahok, coconut milk, fish mixture, salt, fish sauce and palm sugar. Bring the broth to a boil once more. Serve hot with fresh vegetables, cooked Khmer noodles Num Banh Chok and condiments."
+    ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Beef Pho",
+      "category": "breakfast",
+      "image": "/Img/Beef-pho.jpg",
+      "description": "Vietnamese beef noodle soup",
+      "ingredients": ["Beef bones and tough beef cuts", "Flat rice noodles", "Ginger", "Onion", "Star anise", "Cinnamon/cassia sticks", "Peppercorns", "Daikon", "Salt, sugar, and fish sauce", "Steak"],
+      "instructions": [
+        "The beef pho broth is simmered in two phases. Charring onion and ginger slightly turns their harshness into sweetness, which is then extracted in the simmering process. ", 
+        "After straining and chilling, the fat congeals and is removed. Then the broth is reheated, bowls are assembled with noodles and thinly sliced steak, and the broth is ladled into the bowls to heat things through and cook off the raw beef. ",
+        "With add-ins such as bean sprouts, pho can be a one-dish meal. But, if you want to build a menu around it, include a light salad. Get fancy by leading off with goi cuon rice paper rolls. ",
+        "Pho is built for make ahead cooking. Once the broth is made (after step 3), it can sit in the fridge for about 3 days or frozen for 3 months. Bring it to room temperature, reheat, and assemble bowls! "
+    ], 
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Teriyaki Salmon Bowl",
+      "category": "lunch",
+      "image": "/Img/Teriyaki-Salmon-Bowl.jpg",
+      "description": "Salmon served with rice and teriyaki sauce",
+      "ingredients": ["1/4 cup low-sodium soy sauce", "3 tablespoons brown sugar", "1 small clove garlic, chopped", "1 tablespoon chopped fresh ginger", "1 (6 ounce) salmon filet", "1/4 cup grated carrots", "2 radishes, thinly sliced", "1 cup shredded red cabbage", "1 cup cooked rice", "1 teaspoon sesame seeds", "1 green onion, thinly sliced"],
+      "instructions": [
+        "Preheat the oven to 400 degrees F (200 degrees C) and spray a baking dish with cooking spray.", 
+        "Combine soy sauce, brown sugar, garlic, and ginger in a small bowl. Place the salmon in the prepared baking dish, skin side down. Pour teriyaki sauce over.",
+        "Bake in the preheated oven until fish flakes easily with a fork, 12 to 15 minutes.",
+        "Place rice in a bowl, top with salmon, and spoon over teriyaki sauce from the baking dish. Add in the shredded cabbage, grated carrots, and radishes. Sprinkle with sliced green onions and sesame seeds, to garnish."
+    ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Fish Amok",
+      "category": "lunch",
+      "image": "/Img/Fish-Amok.jpg",
+      "description": "Traditional Cambodian fish curry",
+      "ingredients": ["500 grams of white fish", "3 tbsp yellow kroeung", "2 dried red chillies", "1 tbsp fish sauce", "1 tsp shrimp paste", "2 tsp palm sugar", "½ cup first press coconut milk", "2 eggs", "1 pinch salt", "¼ cup nhor/noni leaves"],
+      "instructions": [
+        "Prepare the yellow kroeung as per the recipe on the link above, and add the red chilli and pound well into the mixture. If you don’t have a mortar and pestle you can blend it all in a food processor.",
+        "Combine the kroeung, fish and other ingredients, but not the noni leaves. To taste chunks of fish only lightly combine, but for a smooth texture, desirable by some cooks, combine well by stirring vigorously with a wooden spoon or spatula.",
+        "Test your level of seasoning by frying a spoon of the mixture (or zapping it in the microwave). It should be well balanced and taste a little fishy, a little salty, slightly sweet, a tad spicy, and rich and creamy. Adjust as necessary by adding a pinch of salt or sugar, fish sauce, or even a little chilli.",
+        "Place a few noni leaves on the bottom of your ramikens, coconut shell or banana leaf baskets. If using banana leaf baskets, make ahead of time.",
+        "Add the curry mixture to each ramiken/coconut shell/banana leaf basket and fill almost to the top. Use a spoon or spatula to flatten the mixture out, drizzle a teaspoon of coconut cream and sprinkle some finely sliced kaffir lime leaves on top. Save some for a final garnish.",
+        "Steam for 20-30 minutes then check. The fish amok should be cooked through and firm to touch but still retain a moistness. It should not be dry. When it’s almost done add the rest of the coconut cream on the top and steam for a few more minutes.",
+        "Garnish with the remaining kaffir lime leaf slices and finely sliced red chillies or red capsicum if you don’t like chilli.",
+        "Serve immediately at the centre of the table with rice on each guest’s plate and they can help themselves as they might a curry if eating family style. If you’ve made smaller individual portions for each guests then serve rice at the centre of the table or in small dishes on the side."
+    ], 
+      "isFavorite": false
+    },
+
+    { 
+      "title": "Egg Fried Rice",
+      "category": "lunch",
+      "image": "/Img/Egg-Fried-Rice.jpg",
+      "description": "A quick and easy egg fried rice",
+      "ingredients": ["4 teaspoons canola oil", "2 large eggs", "2 carrots", "salt and ground black pepper to taste", "3 cloves garlic", "1 cup frozen peas", "4 scallions", "4 cups chilled cooked rice", "1 teaspoon soy sauce"],
+      "instructions": [
+        "Heat a wok or large skillet over high heat; add 1 teaspoon canola oil. Cook and stir eggs in the hot oil until scrambled and set, 3 to 4 minutes. Transfer eggs to a plate, clean the wok, and return to high heat.", 
+        "Mix 1 tablespoon canola oil, carrots, and salt in the hot wok; cook and stir for 2 minutes. Add garlic to carrots; cook and stir until garlic is fragrant and browned, about 2 minutes. Stir peas and scallions into carrot mixture; cook and stir until peas are warmed, 1 to 2 minutes. Lower heat to medium.",
+        "Stir rice into carrot mixture; add scrambled eggs, soy sauce, salt, and pepper. Cook and stir rice mixture until heated through, 2 to 3 minutes."
+    ], 
+      "isFavorite": true
+    },
+
+    { 
+      "title": "Bibimbap",
+      "category": "lunch",
+      "image": "/Img/Bibimbap.jpg",
+      "description": "Korean mixed rice with vegetables and meat",
+      "ingredients": ["1 English cucumber", "¼ cup gochujang", "1 bunch fresh spinach", "1 tablespoon soy sauce", "2 teaspoons olive oil", "2 carrots", "1 clove garlic", "1 pinch red pepper flakes", "1 pound thinly-sliced beef top round steak", "4 large eggs", "4 cups cooked white rice", "4 teaspoons toasted sesame oil", "1 teaspoon sesame seeds", "2 teaspoons gochujang"],
+      "instructions": [
+        "Stir together cucumber pieces and gochujang paste in a bowl; set aside. Bring about 2 cups water to a boil in a large nonstick skillet and stir in spinach; cook until bright green and wilted, 2 to 3 minutes.",
+        "Drain spinach and squeeze out as much moisture as possible; set spinach aside in a bowl and stir in soy sauce. Heat 1 teaspoon olive oil in a large nonstick skillet; cook and stir carrots until softened, about 3 minutes",
+        "Stir in garlic and cook just until fragrant, about 1 minute. Stir in cucumber mixture; sprinkle with red pepper flakes. Set carrot mixture aside in a bowl.",
+        "Brown beef in a clean nonstick skillet over medium heat, about 5 minutes per side; set aside.",
+        "Heat remaining 1 teaspoon olive oil in another nonstick skillet over medium-low heat. Fry eggs just on one side until yolks are runny, but whites are firm, 2 to 4 minutes.",
+        "Divide cooked rice into 4 large serving bowls; top with spinach mixture, a few pieces of beef, and cucumber mixture. Place 1 egg atop each serving. Drizzle each bowl with 1 teaspoon sesame oil, a sprinkle of sesame seeds, and a small amount of gochujang paste if desired."
+    ], 
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Beef Loklak",
+      "category": "lunch",
+      "image": "/Img/Beef-Loklak.jpg",
+      "description": "Stir-fried beef with rice and vegetables",
+      "ingredients": ["500g (1 lb) sirloin/striploin steak", "1 tbsp vegetable oil", "1 red onion", "1 tomato", "lettuce leaves to serve", "steamed rice to serve", "1 tbsp oyster sauce", "1 tbsp soy sauce", "1 tsp ground Kampot pepper*", "1 tsp cornflour", "2 garlic cloves", "1 tsp sugar", "3 tbsp lime juice"],
+      "instructions": [
+        "Combine the beef with all the marinade ingredients mix well. Combine the stir-fry sauce ingredients, Set aside for later. Combine the dipping sauce ingredients set aside until ready to serve.",
+        "Heat the vegetable oil in a wok or large frying pan over high heat. Add the beef and spread out in the pan. Sear for about half a minute and then toss. Repeat another 3 times until the beef is starting to char. Add the onions and toss through for a few seconds. Add the stir-fry sauce mixture and toss for another half a minute (for medium beef) or longer for well done. Turn the heat off and allow the beef to rest in the pan for about a minute.",
+        "In the meantime, spread the lettuce leaves out on a serving plate. Top with slices of tomato. Then top with the beef. Serve with steamed rice and the dipping sauce."
+    ], 
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Fried Noodles",
+      "category": "dinner",
+      "image": "/Img/fried-noodles.jpg",
+      "description": "Stir-fried noodles with vegetables and meat",
+      "ingredients": ["450 g Noodles cooked", "3 tbsp Soy Sauce", "2.5 tbsp Dark Soy Sauce", "2 tbsp Sugar", "2 tbsp Sesame Oil", "4 tbsp Water or Vegetable Stock", "6 cloves Garlic", "3 Green Onion", "1-3 Red Chili", "1.5 cups Bean Sprouts"],
+      "instructions": [
+        "In a bowl, mix soy sauce, dark soy sauce, sesame oil, water, and sugar till combined. Cook noodle as per instruction, drain and set aside.",
+        "In a pan, drizzle in oil and turn the heat up to medium-high. Once the pan is hot, add garlic, the white part of green onion, and chopped red chili. Saute together for 2-3 minutes", 
+        "Add in the noodles and pour in the sauce; mix so all the noodles are coated.",
+        "Turn the heat to high, add in bean sprouts, saute on high heat for 2-3 minutes.",
+        "Add in the rest of the green onion, saute on high heat for 1-2 minutes."
+      ], 
+        "isFavorite": false
+    },
+
+    {  
+      "title": "Chicken Congee",
+      "category": "dinner",
+      "image": "/Img/Chicken-Congee.jpg",
+      "description": "Rice porridge with chicken",
+      "ingredients": ["1 cup uncooked short-grain white rice", "1 tablespoon olive oil", "14 ounces boneless, skinless chicken breast", "6 cups chicken broth", "1 (2 inch) piece grated fresh ginger", "1 ear fresh corn", "salt and ground black pepper", "3 spring onions", "6 teaspoons black sesame seeds", "6 teaspoons spicy chili crisp sauce"],
+      "instructions": [
+        "Rinse rice under cold running water until the water runs clear. Set aside.",
+        "Turn on a multi-functional pressure cooker (such as Instant Pot®) and select Saute function. Heat oil and brown chicken on all sides, about 8 minutes, making sure each side is browned before flipping. Add a few tablespoons of chicken broth to the Instant Pot® and scrape off any browned bits from the bottom with a wooden spatula. Turn off Saute function. Add drained rice, ginger, and remaining broth.        ",
+        "Cut the kernels from the corn cob and break cob into 3 pieces. Add corn kernels and cob pieces to the pot. Close and seal the lid. Select Porridge function and set timer for 30 minutes. Allow 10 to 15 minutes for pressure to build.", 
+        "Release pressure using the natural-release method according to manufacturer's instructions, about 15 minutes. Open the lid and discard the corn cob pieces. Remove chicken breast. Shred chicken with two forks and return to the congee. Season with salt and pepper and mix well.",
+        "Divide congee amongst 6 bowls. Top each bowl with equal amounts of sliced spring onions, sesame seeds, and chili crisp."
+      ], 
+        "isFavorite": false
+    },
+
+    {  
+      "title": "Black Pepper Beef",
+      "category": "dinner",
+      "image": "/Img/Black-Pepper-Beef.jpg",
+      "description": "Stir-fried beef with black pepper sauce",
+      "ingredients": ["1.5 lb of Beef", "2.5 cups of Broccoli", "1 Egg White ", "1 tsp of Baking Soda", "3 tbsp of Corn Starch", "5 cloves of Garlic minced", "2 tbsp of Oyster Sauce ", "2 tbsp of Soy Sauce", "1 tbsp of Dark Soy Sauce", "1 tbsp of Black Pepper", "2.5 tbsp of Sugar", "½ tbsp of Rice Vinegar"],
+      "instructions": [
+        "Thinly slice up the beef based on the above tips and marinate the beef with 1 egg white, 1tsp of Baking Soda, and 1.5 tbsp of Corn Starch. Let it rest for 5 minutes while you prepare the rest of the ingredients.",
+        "Mix soy sauce, oyster sauce, sugar, rice vinegar, black pepper, Garlic and dark soy sauce until sugar is dissolved. Mix 1.5 tbsp of Corn starch with 3 tbsp of water and pour it into the sauce, whisk till everything is combined. ",
+        "Drizzle hot water all over the broccoli and set aside. In a pan, add oil and turn the heat up to medium-high. Once the pan is hot, add in the beef and set it for 30 seconds without moving it. Next, saute the meat for 2-3 minutes ", 
+        "Add in the broccoli and saute together for 2-3 minutes. Pour in the sauce and cook on high heat for 1-2 minutes."
+    ], 
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Spaghetti and Meatballs",
+      "category": "dinner",
+      "image": "/Img/Spaghetti-and-Meatballs.jpg",
+      "description": "Classic spaghetti with meatballs",
+      "ingredients": ["1 pound lean ground beef", "1 cup fresh bread crumbs", "1 tablespoon dried parsley", "1 tablespoon grated Parmesan cheese", "¼ teaspoon ground black pepper", "⅛ teaspoon garlic powder", "1 egg", "¾ cup chopped onion", "5 cloves garlic", "¼ cup olive oil", "2 cans whole peeled tomatoes", "2 teaspoons salt", "1 teaspoon white sugar", "1 bay leaf", "1 can tomato paste", "¾ teaspoon dried basil", "½ teaspoon ground black pepper"],
+      "instructions": [
+        "Gather all ingredients, In a large bowl, combine ground beef, bread crumbs, parsley, Parmesan, 1/4 teaspoon black pepper, garlic powder and beaten egg. Mix well and form into 12 balls. Store, covered, in refrigerator until needed.",
+        "In a large saucepan over medium heat, saute onion and garlic in olive oil until onion is translucent. Stir in tomatoes, salt, sugar and bay leaf. Cover, reduce heat to low, and simmer 90 minutes. Stir in tomato paste, basil, 1/2 teaspoon pepper and meatballs and simmer 30 minutes more. Serve hot and enjoy!"
+    ], 
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Teriyaki Salmon Quinoa Bowls",
+      "category": "dinner",
+      "image": "/Img/Teriyaki-Salmon-Quinoa-Bowls.jpg",
+      "description": "Grilled salmon with quinoa and teriyaki sauce",
+      "ingredients": ["1 cup dried quinoa", "1 lb salmon filet", "¼ cup soy sauce", "2 tbsp rice vinegar", "2 tsp minced garlic", "1 tbsp honey", "1 tsp cornstarch", "1 tbsp vegetable oil", "2–3 green onions", "½ cucumber", "2 carrots", "1 avocado", "1 jalapeno"],
+      "instructions": [
+        "Cook quinoa: Prepare the quinoa according to package instructions. Fluffy with a fork and set aside.",
+        "Make salmon marinade: While the quinoa is cooking, place salmon, soy sauce, rice vinegar, garlic, honey and cornstarch into a medium bowl. Mix gently until well combined.",
+        "Cook salmon: Heat a non-stick skillet on medium-high heat with vegetable oil. Add the marinated salmon pieces and cook for 5-6 minutes, or until the salmon is just cooked through and the sauce has thickened. Gently move the pieces as the salmon pieces will be fragile.", 
+        "Arrange bowls: Divide quinoa and salmon pieces into two bowls. Top with green onions, cucumbers, carrots, ½ avocado and jalapeno slices, if desired. Enjoy!"
+    ], 
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Nom Plae Ai",
+      "category": "dessert",
+      "image": "/Img/Nom-Plae-Ai.jpg",
+      "description": "Traditional Khmer dessert made of rice flour",
+      "ingredients": ["3 cups glutinous rice flour", "1 cup hot water", "4 oz. palm sugar", "4 tablespoons water", "4 cups grated coconut", "5 tablespoons coconut oil"],
+      "instructions": [
+        "Place the palm sugar in a saucepan, add the water. Bring to a boil and cook on medium/low heat until the sugar has melted completely. Discard the excess water if it has not been fully evaporated and mix until smooth and thick enough. Let stand for 3 minutes.",
+        "Form palm sugar balls of about ½ inch (1cm) in diameter, Work very quickly as, while cooling, palm sugar becomes more difficult to shape.",
+        "Place the palm sugar balls on parchment paper and set aside, Pour the sticky rice flour in a large bowl. Add the hot water gradually until a smooth and homogeneous dough is formed. Knead the dough for 3 minutes.", 
+        "Cover the dough with plastic wrap and set aside, Take a small piece of dough and work it into a smooth ball. Then, use the thumbs to flatten the ball and form a small circle, then drop a palm sugar ball in the center.",
+        "With your fingers, close the circle of dough and then smooth the edges giving it the shape of a ball. Without pressing, gently smooth with a circular motion using both palms and form a ball.", 
+        "Renew the operation until the dough is used up, Place each ball on the parchment paper. In a large pot, boil a large amount of water, Immerse the balls in simmering water over high heat, (taking care not to overload) and cook until they float to the surface. Place in a bowl of cold water for a minute, then take out with a slotted spoon to drain.",
+        "Wear thick, smooth kitchen gloves and roll generously hot glutinous rice balls into the coconut oil and then into the grated coconut."
+    ], 
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Nom Korng",
+      "category": "dessert",
+      "image": "/Img/Nom-Korng.jpg",
+      "description": "Sticky rice balls filled with mung bean paste",
+      "ingredients": ["2 ¼cups of glutinous rice flour", "¼ cup rice flour", "1 ⅓ cups coconut milk", "½ tsp salt", "1 ½ tbsp of palm sugar melted", "1 ½ cups palm sugar", "½ cup water", "3 tbsp of sesame seeds"],
+      "instructions": [
+        "Incorporate flour, salt and coconut milk together into a silky stretchy dough, Cover and set aside for 60 minutes to rest.",
+        "Take palm size portions of dough and roll into a sausage shape about 1½ cm thick. Join the two ends together to make a doughnut shape.",
+        "In a wok or deep fryer, heat the oil on medium heat, Gently place the doughnuts into the hot oil, flipping occasionally until golden.", 
+        "Place on a rack to drain oil, In a separate pan combine palm sugar and water over low heat until completely dissolved, then add sesame seeds",
+        "Using tongs dip one side of each doughnut into the sugar glaze, Place each on rack, glaze side up to cool.", 
+        "",
+        ""
+    ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Tiramisu Cake",
+      "category": "dessert",
+      "image": "/Img/Tiramisu-Cake.jpg",
+      "description": "Classic Italian coffee-flavored dessert",
+      "ingredients": ["6 large egg yolks", "¾ cup white sugar", "⅔ cup milk", "1 ¼ cups heavy cream", "½ teaspoon vanilla extract", "1 pound mascarpone cheese", "¼ cup strong brewed coffee", "2 tablespoons rum", "2 packages ladyfinger cookies", "1 tablespoon unsweetened cocoa powder"],
+      "instructions": [
+        "Whisk egg yolks and sugar together in a medium saucepan until well blended, Whisk in milk and cook over medium heat, stirring constantly, until mixture comes to a boil.",
+        "Boil gently for 1 minute, then remove from the heat and allow to cool slightly, Cover tightly and chill in the refrigerator for 1 hour.",
+        "Beat cream and vanilla in a medium bowl with an electric mixer until stiff peaks form. Remove egg yolk mixture from the refrigerator; add mascarpone cheese and whisk until smooth.", 
+        "Combine coffee and rum in a small bowl. Split ladyfingers in half lengthwise and drizzle with the coffee mixture. Arrange 1/2 of the soaked ladyfingers in the bottom of a 7x11-inch dish.",
+        "Spread 1/2 of the mascarpone mixture over the ladyfingers, then spread 1/2 of the whipped cream over top. Repeat layers once more.", 
+        "Sprinkle cocoa powder over top, Cover and refrigerate until set, 4 to 6 hours, and enjoy!!"
+      ],
+        "isFavorite": false
+    },
+
+    {  
+      "title": "Egg Tart",
+      "category": "dessert",
+      "image": "/Img/Egg-Tart.jpg",
+      "description": "Chinese dessert with a flaky crust and creamy filling",
+      "ingredients": ["2 cups all-purpose flour", "1 pinch salt", "10 tablespoons butter", "¼ cup confectioners'sugar", "1 egg", "2 tablespoons cold water", "1 cup water", "¾ cup white sugar", "3 eggs", "⅜ cup evaporated milk", "¼ teaspoon vanilla extract"],
+      "instructions": [
+        "Preheat oven to 400 degrees F (200 degrees C.), In a large bowl, mix flour and salt together. Blend in butter with a pastry cutter until mixture resemble coarse crumbs. In a small bowl, beat the egg with the cold water. Stir the egg mixture into the flour mixture to form a soft dough. Wrap with plastic and refrigerate for 30 minutes.",
+        "Divide dough in half. Roll each half out to 1/8 inch thickness. Using a 3.5 inch (8.5 centimeter) fluted round cookie cutter, cut out 22 rounds. Press dough into lightly greased 3 inch tart pans.",
+        "In a saucepan over low heat, stir water and sugar until sugar dissolves. Measure 1 cup plus 2 tablespoons of the resulting syrup and set aside to cool, In a large bowl, combine eggs, evaporated milk and vanilla. Beat until smooth. Strain into reserved syrup and mix well. Pour into prepared tart shells.", 
+        "Bake in the preheated oven for 20 minutes, or until pastry is golden brown and filling is set."
+      ],
+        "isFavorite": false
+    },
+
+    {  
+      "title": "Traditional Mooncakes",
+      "category": "dessert",
+      "image": "/Img/Traditional-Mooncakes.jpg",
+      "description": "Chinese pastry traditionally eaten during the Mid-Autumn Festival",
+      "ingredients": ["100 gm plain flour", "60 gm golden syrup", "½ tsp alkaline water", "28 gm vegetable oil", "420 gm lotus seed puree/paste", "6 salted egg yolks", "1 Tbsp rose-flavoured cooking wine", "1 egg yolk", "2 Tbsp egg white"],
+      "instructions": [
+        "Use a large bowl, mix the golden syrup, alkaline water and oil well. Sift in the flour. Use a spatula to combine all ingredients. Don’t over-stir. Knead into a dough. Cover with a film wrap and rest for 40 minutes.",
+        "Mix egg yolks with wine. If the salted egg yolks are homemade and freshly broken from the shells, you’ll see the egg whites would turn opaque after mixing with the wine a few minutes later. Wipe dry the yolks with kitchen paper. Cut each into two halves. Set aside. Roll lotus paste into a long tube. Cut into 12 equal portions, each 35 grams. Roll each portion into a ball shape. Set aside.",
+        "Preheat oven to 180C (356F). Prepare the egg wash: whisk the egg yolk with the egg white. Sift through a fine sieve.", 
+        "Divide the dough into 12 equal portions. Roll each portion into a small ball shape. Cover a dough portion with a plastic film and roll into a thin disc. Then take a lotus paste ball and poke a hole in the middle with your finger. Place egg yolk inside. Roll and shape into a ball. Wrap and seal the lotus paste ball with the dough disc. Spray the mooncake mould and place the stuffed mooncake into the mould. Lightly press the mould handle, then remove the mooncake from the mould. Transfer the stuffed mooncake onto a lined baking tray. Repeat this step to finish the remaining dough and lotus paste.",
+        "Bake in the preheated oven for about 10 to 12 minutes. Brush the mooncakes with egg wash, at about 5 minutes before removing from the oven. Continue to bake until the pastry turns golden brown. Remove from oven and let cool on a wire rack. Store in an air-tight container. The pastry will become soft, called “回油” （literally means ”returns oily and soft’） and shiny in one or two days."
+      ],
+        "isFavorite": false
+    },
+
+    {  
+      "title": "Chicken Katsu",
+      "category": "asian-cuisine",
+      "image": "/Img/chicken-katsu.jpg",
+      "description": "Japanese breaded chicken cutlet",
+      "ingredients": ["4 skinless, boneless chicken breast halves", "salt and pepper to taste", "2 tablespoons all-purpose flour", "1 egg", "1 cup panko bread crumbs", "1 cup oil for frying"],
+      "instructions": [
+        "Season chicken breasts on both sides with salt and pepper. Place flour, beaten egg, and panko crumbs into separate shallow dishes. Coat chicken breasts in flour, shaking off any excess; dip into egg, and then press into panko crumbs until well coated on both sides.",
+        "Heat oil in a large skillet over medium-high heat. Place chicken in the hot oil, and fry until golden brown, 3 or 4 minutes per side. Transfer to a paper towel-lined plate to drain."
+      ],
+        "isFavorite": true
+    },
+
+    { 
+      "title": "Tteokbokki",
+      "category": "asian-cuisine",
+      "image": "/Img/tteokbokki.jpg",
+      "description": "Korean spicy rice cakes",
+      "ingredients": ["3 cups water", "2 dried anchovies", "3 tablespoons chile paste", "2 tablespoons white sugar", "1 tablespoon soy sauce", "1 tablespoon corn syrup", "2 Korean fish cakes", "½ onion, thickly sliced", "1 spring onion"],
+      "instructions": [
+        "Combine water and anchovies in a saucepan and bring to a boil. Cook for 10 minutes, Remove anchovies. Combine chile paste, sugar, soy sauce, and corn syrup in a bowl to make the sauce.",
+        "Add rice cakes and onion to the anchovy water in the saucepan. Add sauce. Bring to a boil and cook for 5 minutes, stirring occasionally. Add spring onion and boil 3 minutes more.",
+        "It's quite spicy. So check the taste when you add the sauce so that you can control the amount of heat."
+      ],
+        "isFavorite": false
+    },
+
+    {  
+      "title": "Homemade Dumplings",
+      "category": "asian-cuisine",
+      "image": "/Img/Homemade-Dumplings.jpg",
+      "description": "Dumplings filled with meat and vegetables",
+      "ingredients": ["100 (3.5 inch square) wonton wrappers", "1 ¾ pounds ground pork", "1 tablespoon minced fresh ginger root", "4 cloves garlic", "2 tablespoons thinly sliced green onion", "4 tablespoons soy sauce", "3 tablespoons sesame oil", "1 egg", "5 cups finely shredded Chinese cabbage"],
+      "instructions": [
+        "In a large bowl, combine the pork, ginger, garlic, green onion, soy sauce, sesame oil, egg and cabbage. Stir until well mixed.",
+        "Place 1 heaping teaspoon of pork filling onto each wonton skin. Moisten edges with water and fold edges over to form a triangle shape. Roll edges slightly to seal in filling. Set dumplings aside on a lightly floured surface until ready to cook.",
+        "Arrange dumplings in a covered bamboo or metal steamer so they don't touch to prevent them from sticking together; steam for 15 minutes, or until pork is cooked through. Serve hot and enjoy!"
+      ],
+        "isFavorite": false
+    },
+
+    {  
+      "title": "Mapo Tofu",
+      "category": "asian-cuisine",
+      "image": "/Img/mapo-tofu.jpg",
+      "description": "Spicy Sichuan tofu dish",
+      "ingredients": ["1 tablespoon cold water", "1 teaspoon cornstarch", "½ pound ground pork", "1 tablespoon vegetable oil", "1 tablespoon minced garlic", "1 tablespoon minced fresh ginger root", "1 package firm tofu", "5 tablespoons soy sauce", "2 tablespoons hot bean sauce", "1 teaspoon white sugar", "3 green onions", "1 teaspoon sesame oil"],
+      "instructions": [
+        "Mix water and cornstarch in a small bowl; set aside, Brown ground pork in a small skillet over medium-high heat, about 5 minutes. Drain fat.",
+        "Heat oil over medium-high heat in a large skillet or wok. Cook garlic and ginger in oil until fragrant, about 1 minute. Stir in tofu and cook for 2 minutes. Season with soy sauce, hot bean sauce, and sugar; stir to combine.",
+        "Stir in cooked pork and green onion. Sprinkle with cornstarch and water mixture; cook and stir until thickened, about 2 minutes. Stir sesame oil into the thickened mapo tofu."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Chinese Scallion Pancakes",
+      "category": "asian-cuisine",
+      "image": "/Img/chinese-scallion-pancake.jpg",
+      "description": "Savory pancakes with scallions",
+      "ingredients": ["2 cups all-purpose flour", "1 tablespoon salt", "¾ cup boiling water", "½ cup cold water", "vegetable oil", "1 bunch green onions (scallions)"],
+      "instructions": [
+        "Mix flour and 1 teaspoon salt together in a large bowl; pour in boiling water and quickly mix together until water is absorbed. Work cold water, about 1 tablespoon at a time, into flour mixture just until dough forms. Knead dough for 10 minutes. Cover bowl with a damp cloth and let dough rest for 40 minutes.",
+        "Turn dough onto a lightly floured work surface; divide into 4 equal pieces, Roll 1 piece of dough into a large thin round; brush the top with vegetable oil and sprinkle with about 1/2 teaspoon salt and 1/4 the green onions. Pick up 1 end of the round and roll dough around green onions into a long scroll-shape. Take 1 scroll end and roll dough into a disk. Repeat with remaining dough, letting each disk rest for 10 minutes.",
+        "Heat about 1 tablespoon vegetable oil in a skillet over medium-low heat. Place 1 disk on a floured surface and roll into a 1/2-inch thick round; cook in the hot oil until golden brown, 2 to 3 minutes per side. Repeat with remaining disks."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Garlic Butter Shrimp & Asparagus",
+      "category": "seafood",
+      "image": "/Img/Garlic-Butter-Shrimp&Asparagus.jpg",
+      "description": "Shrimp sautéed with garlic and asparagus",
+      "ingredients": ["700g medium raw shrimp", "700g asparagus", "3 tablespoons butter", "1 tablespoon olive oil", "5 clove garlic", "1 teaspoon Italian seasoning", "2 teaspoons onion powder", "Salt and fresh cracked pepper", "1/4 cup (60ml) vegetable stock", "1 tablespoon Sriracha", "Crushed chili pepper flakes", "Juice of 1/2 lemon", "Fresh chopped parsley or cilantro, for garnish"],
+      "instructions": [
+        "To prepare the garlic butter shrimp recipe with asparagus: place a large non-stick skillet with 1 tablespoon olive oil and 1 tablespoon butter over medium heat. Add the asparagus and season to taste. Saute the asparagus until crisp-tender, 4-6 minutes. Remove sauteed asparagus from the pan and set aside.",
+        "In the same pan, add the remaining 2 tablespoons of butter and add shrimp. Season with salt and pepper, fry shrimp for 1-2 minutes on one side.",
+        "Add the minced garlic, Italian seasoning, and onion powder to the shrimp. Stir to combine and flip the shrimp to cook on the opposite side. Cook shrimp for 1 minute then add 1/4 cup vegetable stock and Sriracha. Allow the sauce to reduce for 1 minute, making sure not to overcook the shrimp.", 
+        "Push the cooked shrimp on the side and add asparagus back to the pan. Stir asparagus to coat them into the sauce and squeeze half of a lemon over the top of the cooked shrimp and asparagus. Allow reheating for 1-2 minutes. Remove cooked shrimp and asparagus from heat, garnish with parsley, lemon slices, and red crushed chili pepper if you like."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Shrimp Stir Fry",
+      "category": "seafood",
+      "image": "/Img/Shrimp-Stir-Fry.jpg",
+      "description": "Quick shrimp stir-fried with vegetables",
+      "ingredients": ["3 tablespoons cornstarch", "1 ¾ cups Chicken Stock", "1 tablespoon soy sauce", "½ teaspoon sesame oil", "2 tablespoons vegetable oil", "1 pound fresh or thawed frozen medium shrimp", "4 cups cut-up fresh vegetables", "½ teaspoon ground ginger", "⅛ teaspoon garlic powder", "4 cups hot cooked regular long-grain white rice"],
+      "instructions": [
+        "Stir the cornstarch, stock, soy sauce and sesame oil in a small bowl until the mixture is smooth.",
+        "Heat 1 tablespoon vegetable oil in a 12-inch skillet over medium-high heat. Add the shrimp and stir-fry until they're cooked through. Remove the shrimp from the skillet.",
+        "Heat the remaining vegetable oil in the skillet. Add the vegetables, ginger and garlic powder and stir-fry until the vegetables are tender-crisp.", 
+        "Stir the cornstarch mixture in the skillet. Cook and stir until the mixture boils and thickens. Return the shrimp to the skillet and cook until the mixture is hot and bubbling. Serve over the rice."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Baked Salmon",
+      "category": "seafood",
+      "image": "/Img/baked-salmon.jpg",
+      "description": "Oven-baked salmon with herbs",
+      "ingredients": ["6 tablespoons light olive oil", "2 cloves garlic", "1 tablespoon lemon juice", "1 tablespoon fresh parsley", "1 teaspoon dried basil", "1 teaspoon salt", "1 teaspoon ground black pepper", "2 fillets salmon"],
+      "instructions": [
+        "Whisk olive oil, garlic, lemon juice, parsley, basil, salt, and pepper together in a medium bowl.",
+        "Arrange salmon fillets in a small glass or ceramic baking dish; pour marinade over salmon. Cover and marinate in the refrigerator for about 1 hour, turning occasionally. Preheat the oven to 375 degrees F (190 degrees C).",
+        "Transfer salmon fillets onto a large piece of aluminum foil. Spoon marinade on top and fold up the foil to seal. Place sealed foil packs on a baking sheet.", 
+        "Bake in preheated oven until fish flakes easily with a fork, about 35 to 45 minutes. Serve hot and enjoy!"
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Shrimp Alfredo",
+      "category": "seafood",
+      "image": "/Img/shrimp-alfredo.jpg",
+      "description": "Creamy shrimp pasta",
+      "ingredients": ["1 jar Alfredo-style pasta sauce", "1 package angel hair pasta", "2 pounds fresh shrimp", "1 cup butter", "½ small green bell pepper", "½ small red onion", "1 teaspoon garlic powder", "½ teaspoon ground cumin"],
+      "instructions": [
+        "In a saucepan over low-temperature, heat the Alfredo sauce. Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 minutes or until al dente; drain.",
+        "Boil shrimp in a large pot of water until they turn orange. Then place in bowl with melted butter. Let shrimp marinate for 15 to 30 minutes; remove. In a large skillet over medium heat, saute the green pepper and onion in a small amount of oil.",
+        "Mix together the cooked pasta, shrimp, pepper-onion mixture and Alfredo sauce. Season with garlic powder and cumin."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Shrimp Fried Rice",
+      "category": "seafood",
+      "image": "/Img/Shrimp-Fried-Rice.jpg",
+      "description": "Fried rice with shrimp and vegetables",
+      "ingredients": ["2 tablespoons sesame oil", "2 tablespoons olive oil", "1 pound uncooked medium shrimp", "1 cup frozen peas and carrots", "½ cup frozen corn", "2 cloves garlic", "3 large eggs", "4 cups cooked rice", "3 tablespoons thinly sliced green onions", "3 tablespoons low-sodium soy sauce", "½ teaspoon salt", "½ teaspoon freshly ground black pepper"],
+      "instructions": [
+        "Heat sesame oil and olive oil in a large nonstick skillet or wok over medium-high heat. Add shrimp and cook until they are bright pink on the outside and the meat is opaque, about 3 minutes, flipping halfway through.",
+        "Remove shrimp from the skillet using a slotted spoon, allowing oils and cooking juices to remain in the skillet. Place shrimp on a plate and set aside.",
+        "Add peas and carrots and corn to the skillet and cook, stirring intermittently, until vegetables begin to soften, about 2 minutes. Add garlic; cook and stir for 1 minute. Push vegetables to the side of the skillet, pour eggs into the other side, and cook to scramble, stirring as necessary, 3 to 4 minutes.", 
+        "Stir shrimp, rice, and green onions into the skillet. Drizzle evenly with soy sauce, season with salt and pepper, and stir to combine. Cook until shrimp is reheated through, about 2 minutes."
+      ],
+       "isFavorite": false
+    },
+
+    {  
+      "title": "Korean Cucumber Salad",
+      "category": "side-dish",
+      "image": "/Img/Korean-Cucumber-Salad.jpg",
+      "description": "Spicy and tangy cucumber salad",
+      "ingredients": ["¼ cup white vinegar", "¼ teaspoon black pepper", "½ teaspoon red pepper flakes", "1 teaspoon vegetable oil", "2 tablespoons sesame seeds", "1 cucumber", "½ green onion", "½ carrot"],
+      "instructions": [
+        "In a medium bowl, stir together vinegar, black pepper, and red pepper flakes.",
+        "Heat oil in a saucepan over medium-high heat. Stir in sesame seeds, and reduce heat to medium. Cook until seeds are brown, about 5 minutes. Remove seeds with a slotted spoon, and stir into vinegar mixture. Mix in cucumber, green onions, and carrot. Cover and refrigerate, at least 5 minutes."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Baby Bok Choy Stir Fry",
+      "category": "side-dish",
+      "image": "/Img/Baby-Bok-ChoyStir-Fry.jpg",
+      "description": "Stir-fried baby bok choy with garlic",
+      "ingredients": ["1 ½ tablespoons canola oil", "2 teaspoons minced garlic", "1 pound baby bok choy", "1 tablespoon light soy sauce", "½ teaspoon white sugar", "salt to taste", "¼ cup water", "½ teaspoon sesame oil", "ground black pepper to taste"],
+      "instructions": [
+        "Heat a wok over medium heat. Add oil and heat until shimmering. Add garlic and stir-fry until fragrant, about 30 seconds. Add bok choy and cook for 30 seconds. Add soy sauce and sugar, then season with salt; cook for 1 minute. Drizzle sesame oil over bok choy and season with pepper.",
+        "Pour water into the wok, cover, and simmer until bok choy leaves are dark green and stems are tender but still firm, 2 to 3 minutes. Remove from the heat."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Pickled Cucumber",
+      "category": "side-dish",
+      "image": "/Img/Pickled-Cucumber.jpg",
+      "description": "Tangy pickled cucumber slices",
+      "ingredients": ["Vinegar–apple cider", "Sugar", "Garden Cucumbers", "Onion or Green Onion"],
+      "instructions": [
+        "Combine the water, vinegar, sugar, and salt, Add the cucumber and onion.",
+        "Cover all the cucumbers with the brine, Place in the refrigerator until ready to eat!"
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Kimchi",
+      "category": "side-dish",
+      "image": "/Img/kimchi.jpg",
+      "description": "Spicy fermented cabbage",
+      "ingredients": ["2 heads napa cabbage", "1 ¼ cups coarse sea salt", "1 tablespoon fish sauce", "5 green onions", "½ small white onion", "2 cloves garlic", "2 tablespoons white sugar", "1 teaspoon ground ginger", "5 tablespoons gochugaru"],
+      "instructions": [
+        "Cut cabbages in half lengthwise and trim the ends. Rinse and cut into pieces about 2 inch square. Place cabbage into large resealable bags; sprinkle salt evenly over leaves to coat. Use your hands to rub salt into cabbage. Seal the bags and leave at room temperature for 6 hours.",
+        "Rinse cabbage leaves under cold water, at least 2 to 3 times, to remove most of the salt; drain and squeeze out any excess liquid.",
+        "Place rinsed cabbage in a large container with a tight fitting lid. Stir in fish sauce, green onions, white onion, garlic, sugar, and ginger. Sprinkle Korean chile powder over mixture.; wear plastic gloves to protect your hands and rub chile powder into cabbage leaves until evenly coated.", 
+        "Seal the container and set in a cool dry place. Leave undisturbed for 4 days. Refrigerate before serving, and store in the refrigerator for up to 1 month (if it lasts that long!)."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Garlic Bread",
+      "category": "side-dish",
+      "image": "/Img/garlic-bread.jpg",
+      "description": "Toasted bread with garlic butter",
+      "ingredients": ["½ cup butter", "¼ cup grated Parmesan cheese", "2 cloves garlic", "¼ teaspoon dried marjoram", "¼ teaspoon dried basil", "¼ teaspoon fines herbs", "¼ teaspoon dried oregano", "¼ teaspoon dried parsley", "ground black pepper to taste", "1 loaf unsliced Italian bread"],
+      "instructions": [
+        "Gather ingredients and preheat the oven to 350 degrees F (175 degrees C). Mix butter, Parmesan cheese, garlic, marjoram, basil, fines herbs, oregano, parsley, and pepper together in a bowl until thoroughly combined.",
+        "Slice Italian bread loaf in half lengthwise; spread each half generously with the garlic butter mixture. Transfer onto a baking sheet.",
+        "Bake on the top rack of the preheated oven until butter mixture melts and bubbles, about 10 to 15 minutes. Turn on the oven's broiler and broil until the bread is your desired shade of golden brown, 1 to 2 more minutes."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Pumpkin Soup",
+      "category": "healthy-food",
+      "image": "/Img/Pumpkin-Soup.jpg",
+      "description": "Creamy pumpkin soup",
+      "ingredients": ["1 tablespoon olive oil", "2 cups chopped yellow onion", "10 whole black peppercorns", "4 cloves garlic", "1 teaspoon chopped fresh thyme", "3 cups pumpkin puree", "4 cups chicken stock", "3 tablespoons maple syrup", "¾ teaspoon kosher salt", "¼ teaspoon ground nutmeg", "¼ teaspoon ground cinnamon", "½ cup heavy whipping cream", "2 tablespoons chopped fresh parsley"],
+      "instructions": [
+        "Heat olive oil in a large pot over medium-high. Add onion and cook, stirring occasionally, until onion is browned and softened, about 10 minutes. Add peppercorns, garlic, and thyme, and cook, stirring often, until fragrant and slightly browned, about 2 minutes.",
+        "Stir in pumpkin puree; cook, stirring occasionally, until puree turns a few shades darker, about 5 minutes. Stir in chicken stock, maple syrup, salt, nutmeg, and cinnamon. Bring to a simmer over medium-low. Simmer, uncovered, and stirring occasionally, until slightly reduced and flavors meld, about 30 minutes.",
+        "Transfer soup to a blender in batches; secure lid on blender and remove center piece to allow steam to escape. Place a clean towel over opening; blend until smooth, about 30 seconds per batch. Return soup to the pot and stir in heavy cream. Cook over medium until heated through, about 4 minutes.", 
+        "Return soup to the pot and stir in heavy cream. Cook over medium until heated through, about 4 minutes.",
+        "Ladle soup into bowls and garnish with fresh parsley."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Vegetable Curry",
+      "category": "healthy-food",
+      "image": "/Img/vegetable-curry.jpg",
+      "description": "Healthy vegetable curry",
+      "ingredients": ["1 tablespoon olive oil", "1 onion", "2 cloves crushed garlic", "2 ½ tablespoons curry powder", "2 tablespoons tomato paste", "1 can diced tomatoes", "1 cube vegetable bouillon", "1 package frozen mixed vegetables", "1 ½ cups water", "salt and pepper to taste", "2 tablespoons chopped fresh cilantro"],
+      "instructions": [
+        "In a large saucepan over medium-high, heat oil and saute onion, and garlic until golden. Stir in curry powder and tomato paste, cook 2 to 3 minutes.",
+        "Stir in tomatoes, vegetable bouillon cube, mixed vegetables, water, salt and pepper to taste. Cook approximately 30 minutes until vegetables are well done (not crunchy). Sprinkle with fresh cilantro prior to serving."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Tofu Stir Fry",
+      "category": "healthy-food",
+      "image": "/Img/tofu-stir-fry.jpg",
+      "description": "Stir-fried tofu with vegetables",
+      "ingredients": ["2 packages extra-firm tofu", "1 tablespoon canola oil or grapeseed oil", "3 tablespoons low-sodium soy sauce", "3 large garlic cloves", "1 small bunch green onions", "1 tablespoon minced fresh ginger", "1–2 teaspoons fresh chili paste", "10 ounces baby spinach", "2 tablespoons toasted sesame seeds", "2 teaspoons sesame oil"],
+      "instructions": [
+        "Drain the tofu. Wrap each block in a double layer of paper towels and pat dry, pressing down on the tofu lightly to squeeze out excess moisture. Cut the tofu into 3/4-inch cubes.",
+        "In a large nonstick skillet or wok, heat the canola oil over medium-high heat. Once the oil is hot but not smoking, add the tofu (be careful, as the oil will splatter a little bit) and drizzle with 1 tablespoon soy sauce. Sauté, stirring every minute or so until the tofu is nicely colored on all sides and the moisture has cooked off, about 8 to 10 minutes. Don’t feel that you need to stir constantly. Sitting for a while on one side is what will allow the tofu to brown. Add the garlic, roughly two-thirds of the green onion, ginger, chili paste, and the remaining 2 tablespoons soy sauce. Stir and cook until fragrant, about 1 minute.",
+        "Add several large handfuls of spinach, stirring as you go so that it wilts and you can fit more in the pan. Once the first addition has wilted, continue to add and wilt the spinach by handfuls, until all of the spinach is added. It will seem like a ridiculous amount at first but will cook down considerably. Stir in the sesame seeds. Stir in the sesame oil. Remove from the heat. Sprinkle the reserved green onions over the top. Serve hot, with brown rice, noodles, or whatever you like, along with a few dashes of additional soy sauce and chili paste or flakes to taste."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Egg and Tomato Wraps",
+      "category": "healthy-food",
+      "image": "/Img/Egg-and-Tomato-Wraps.jpg",
+      "description": "Healthy wraps with eggs and tomatoes",
+      "ingredients": ["2 wholemeal tortillas wraps", "4 tbsp reduced fat soft cheese", "1-2 tbsp snipped fresh chives or parsley", "2 large eggs", "25g (1oz) rocket leaves", "2 tomatoes", "Freshly ground black pepper"],
+      "instructions": [
+        "Spread one side of each tortilla wrap with soft cheese; sprinkle with snipped chives or parsley (if using).",
+        "Remove and discard shells from eggs, then slice. Arrange egg slices and rocket leaves across middle of each wrap.",
+        "Top with tomato slices and season with black pepper, Wrap/fold or loosely roll up tortilla wraps to enclose filling; cut each into 3 or 4 portions. Serve immediately."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Keto Tuna Salad",
+      "category": "healthy-food",
+      "image": "/Img/keto-tuna-salad.jpg",
+      "description": "Low-carb tuna salad",
+      "ingredients": ["2 cans water-packed tuna", "2 cans olive oil-packed tuna", "¾ cup reduced-fat olive oil mayonnaise", "2 stalks celery", "¼ red onion", "½ lime", "2 tablespoons mustard", "salt and ground black pepper"],
+      "instructions": [
+        "Combine water-packed tuna, oil-packed tuna, mayonnaise, celery, red onion, lime juice, mustard, salt, and pepper in a bowl. Mix well."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Drunken Noodles",
+      "category": "vegetarian",
+      "image": "/Img/drunken-noodles.jpg",
+      "description": "Spicy Thai noodle dish",
+      "ingredients": ["8 ounces dried rice noodles", "¼ cup oyster sauce", "¼ cup soy sauce", "1 tablespoon Asian fish sauce", "1 tablespoon maple syrup", "1 teaspoon white sugar", "2 tablespoons cold water", "2 tablespoons vegetable oil", "1 teaspoon sesame oil", "1 cup shallots", "6 teaspoons chile padi", "4 cloves garlic", "2 ½ pounds skinless, boneless chicken thighs", "1 pound Chinese broccoli", "4 green onions", "1 cup fresh Thai basil leaves"],
+      "instructions": [
+        "Gather the ingredients, Soak rice noodles in hot water until flexible, 10 to 15 minutes. Occasionally move the noodles around to separate them. Drain the water and cover with a wet paper towel.",
+        "Combine oyster sauce, soy sauce, Asian fish sauce, maple syrup, sugar, and water in a small bowl.",
+        "Heat vegetable oil and sesame oil in a wok, or large frying pan, over medium-high heat. Stir-fry shallots, chile peppers, and garlic until shallots are soft, about 2 minutes. Move the mixture around the outside of the pan to create a space and add chicken. Sear for 1 minute, then combine with shallot mixture.", 
+        "Add Chinese broccoli stems and stir-fry until tender, about 2 minutes, Add Chinese broccoli leaves and stir-fry until wilted. Add drunken noodle sauce and sliced green onions and mix. Cook until sauce begins to simmer.",
+        "Add soaked rice noodles and toss to coat until noodles have absorbed the sauce and are cooked through, about 2 minutes. Remove from heat.", 
+        "Stir in Thai basil leaves until wilted. Taste and adjust seasoning if needed. Serve."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Mushroom Mapo Tofu",
+      "category": "vegetarian",
+      "image": "/Img/Mushroom-Mapo-Tofu.jpg",
+      "description": "Vegetarian version of mapo tofu",
+      "ingredients": ["½ cup vegetable broth", "1 tablespoon maple syrup", "2 teaspoons reduced-sodium soy sauce", "1 teaspoon cornstarch", "1 tablespoon peanut oil", "1 cup shiitake mushrooms", "3 tablespoons fermented black beans", "2 green onions", "6 cloves garlic", "1 tablespoon fresh ginger", "1 teaspoon Sichuan peppercorns", "2 tablespoons chili bean paste", "1 container silken tofu", "1 tablespoon chile oil", "1 tablespoon sesame oil", "3 tablespoons peanuts"],
+      "instructions": [
+        "Mix vegetable broth, maple syrup, soy sauce, and cornstarch in a bowl.",
+        "Heat peanut oil in a wok over medium-high heat. Add mushrooms, black beans, green onions, garlic, ginger, and Sichuan peppercorns. Saute until aromatic, about 1 minute. Add chili bean paste and the soy sauce mixture. Cook and stir until thick, 3 to 5 minutes. Add tofu; cook until heated through, about 1 minute more.",
+        "Transfer cooked tofu to a serving dish; drizzle chile oil and sesame oil on top. Top with chopped peanuts."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Sweet Potato Lasagna",
+      "category": "vegetarian",
+      "image": "/Img/Sweet-Potato-Lasagna.jpg",
+      "description": "Layered lasagna with sweet potatoes",
+      "ingredients": ["Sweet potatoes", "Marinara sauce", "Ricotta and feta cheese", "Fresh basil and sage", "Garlic and red pepper flakes", "Fresh spinach", "Mozzarella and Parmesan cheese", "2 garlic cloves"],
+      "instructions": [
+        "Preheat the oven to 375°F, In a medium bowl, mix together the ricotta, feta, garlic, basil, sage, red pepper flakes and a few generous pinches of salt and pepper.",
+        "Lightly grease an 8x8 or similar size baking pan with olive oil. (Pictured is a 7x10 inch pan) Spread the marinara sauce over the bottom of the baking dish and top with the first layer of sweet potato slices. Spread with half of the ricotta cheese mixture and add a layer of 1 cup baby spinach. Add the next sweet potato layer, the remaining ricotta cheese, and the remaining spinach. Top with the last layer of sweet potatoes, the shredded mozzarella, and the Parmigiano cheese.",
+        "Bake for 35 minutes, uncovered. If cheese starts browning too much, cover the pan with a sheet of aluminum foil. Add the remaining fresh sage during the last minute of baking time.", 
+        "Remove from the oven and let sit for 15 minutes before slicing. Sprinkle with parsley, if using."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Vegetarian Stuffed Peppers",
+      "category": "vegetarian",
+      "image": "/Img/Vegetarian-Stuffed-Peppers.jpg",
+      "description": "Peppers filled with rice and vegetables",
+      "ingredients": ["1 ½ cups brown rice", "6 large green bell peppers", "3 tablespoons soy sauce", "3 tablespoons cooking sherry", "1 teaspoon vegetarian Worcestershire sauce", "1 ½ cups extra firm tofu", "½ cup sweetened dried cranberries", "¼ cup chopped pecans", "½ cup grated Parmesan cheese", "salt and pepper to taste", "2 cups tomato sauce", "2 tablespoons brown sugar", "", "", "", ""],
+      "instructions": [
+        "Preheat oven to 350 degrees F (175 degrees C). In a saucepan bring 3 cups water to a boil. Stir in rice. Reduce heat, cover and simmer for 40 minutes.",
+        "Meanwhile, core and seed green peppers, leaving bottoms intact. Place peppers in a microwavable dish with about 1/2 inch of water in the bottom. Microwave on high for 6 minutes.",
+        "In a small frying pan bring soy sauce, wine and Worcestershire sauce to a simmer. Add tofu and simmer until the liquid is absorbed. Combine rice (after it has cooled), tofu, cranberries, nuts, cheese, salt and pepper; mix and pack firmly into peppers. Return peppers to the dish you first microwaved them in, and bake in preheated oven for 25 to 30 minutes, or until lightly browned on top.", 
+        "Meanwhile, in a small saucepan over low heat, combine tomato sauce and brown sugar; heat until hot throughout. Spoon sauce over each serving."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Vegetarian Bibimbap",
+      "category": "vegetarian",
+      "image": "/Img/Vegetarian-Bibimbap.jpg",
+      "description": "Vegetarian version of bibimbap",
+      "ingredients": ["2 tablespoons sesame oil", "1 cup carrot matchsticks", "1 cup zucchini matchsticks", "½ (14 ounce) can bean sprouts", "6 ounces canned bamboo shoots", "1 can sliced mushrooms", "⅛ teaspoon salt to taste", "2 cups cooked and cooled rice", "⅓ cup sliced green onions", "2 tablespoons soy sauce", "¼ teaspoon ground black pepper", "1 tablespoon butter", "3 eggs", "3 teaspoons sweet red chili sauce"],
+      "instructions": [
+        "Heat sesame oil in a large skillet over medium heat; cook and stir carrot and zucchini in the hot oil until vegetables begin to soften, about 5 minutes. Stir in bean sprouts, bamboo shoots, and mushrooms. Cook and stir until carrots are tender, about 5 more minutes. Season to taste with salt and set vegetables aside.",
+        "Stir cooked rice, green onions, soy sauce, and black pepper in the same skillet until the rice is hot. In a separate skillet over medium heat, melt butter and gently fry eggs, turning once, until the yolks are still slightly runny but the egg whites are firm, about 3 minutes per egg.",
+        "To serve, divide hot cooked rice mixture between 3 serving bowls and top each bowl with 1/3 of the vegetable mixture and a fried egg. Serve sweet red chili sauce on the side for mixing into bibimbap."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Iced Caramel Macchiato",
+      "category": "drinks",
+      "image": "/Img/Iced-Caramel-Macchiato.jpg",
+      "description": "Iced coffee with caramel syrup",
+      "ingredients": ["1 tablespoon vanilla-flavored syrup", "⅓ cup ice cubes", "¾ cup milk", "4 ounces Gevalia® Cold Brew Concentrate", "1 tablespoon caramel sauce"],
+      "instructions": [
+        "Pour vanilla syrup into a drinking glass.",
+        "Add ice cubes, then pour in milk.",
+        "Slowly pour in cold brew concentrate.", 
+        "Drizzle drink with caramel sauce."
+      ],
+      "isFavorite": true
+    },
+
+    {  
+      "title": "Ginger Lemonade",
+      "category": "drinks",
+      "image": "/Img/ginger-lemonade.jpg",
+      "description": "Refreshing ginger and lemon drink",
+      "ingredients": ["3 cups white sugar", "4 quarts water", "14 slices fresh ginger root", "4 cups fresh lemon juice", "2 lemons, sliced"],
+      "instructions": [
+        "Combine sugar, water, and ginger root in an 8-quart saucepan. Heat to boiling, stirring occasionally until sugar melts. Remove from heat.",
+        "Stir in lemon juice. Cool 15 minutes. Remove ginger. Refrigerate lemonade at least 1 hour, or until chilled.",
+        "Serve over ice, and garnish with lemon slices."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Fruit and Yogurt",
+      "category": "drinks",
+      "image": "/Img/fruit-and-yogurt.jpg",
+      "description": "Healthy yogurt with fresh fruits",
+      "ingredients": ["1 cup strawberries", "1 banana", "½ cup yogurt", "¼ cup pineapple juice", "1 ½ teaspoons white sugar", "1 teaspoon orange juice", "1 teaspoon milk"],
+      "instructions": [
+        "Gather all ingredients.",
+        "Combine strawberries, banana, yogurt, pineapple juice, sugar, orange juice, and milk in a blender.",
+        "Blend until smooth."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Avocado Smoothie",
+      "category": "drinks",
+      "image": "/Img/avocado-smoothie.jpg",
+      "description": "Creamy avocado smoothie",
+      "ingredients": ["1 cup milk", "1 ripe avocado", "½ cup vanilla yogurt", "3 tablespoons honey", "8 ice cubes"],
+      "instructions": [
+        "Gather the ingredients.",
+        "Place milk, avocado, yogurt, and honey into a blender; add ice cubes and blend until smooth."
+      ],
+      "isFavorite": false
+    },
+
+    {  
+      "title": "Honey Lemon Tea",
+      "category": "drinks",
+      "image": "/Img/honey-lemon-tea.jpg",
+      "description": "Warm tea with honey and lemon",
+      "ingredients": ["1 cup water", "2 teaspoons honey", "1 teaspoon fresh lemon juice", "1 teaspoon white sugar"],
+      "instructions": [
+        "Pour water into a mug. Add honey and heat in the microwave for 1 minute 30 seconds.",
+        "Stir in lemon juice, mixing until honey is dissolved. Stir in sugar."
+      ],
+      "isFavorite": false
+    }
+  ]
+  

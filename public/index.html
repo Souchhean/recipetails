@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Barriecito&family=Barrio&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="/CSS/style.css">
+    <title>RECIPETAILS</title>
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid justify-content-center">
+            <a class="navbar-brand" href="#">
+                <img src="/Img/logo.png" alt="Logo" width="70" height="70" class="logo-img d-inline-block align-text-center">
+                <span class="logo-text">RecipeTails</span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-center" id="navbarTogglerDemo02">
+                <ul class="navbar-nav mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="category.html">Category</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">About Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact Us</a>
+                    </li>
+                </ul>                
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="home text-center py-5">
+        <h1 class="mb-4">Better Meals, Better World</h1>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <img src="/Img/home-img.jpg" alt="Delicious Meals" class="img-fluid">
+                </div>
+                <div class="col-md-6">
+                    <h2>Discover the World of Cuisine</h2>
+                    <p>
+                        Cuisine is more than just food; it’s a reflection of culture, tradition, and history. Across the globe,
+                        different regions boast unique flavors, techniques, and ingredients that make their dishes special.
+                        Whether it’s the spicy and bold flavors of Southeast Asia or the hearty and comforting meals of Europe,
+                        each cuisine tells a story. At RecipeTails, we aim to bring these global tastes to your kitchen, allowing
+                        you to experience the world one meal at a time.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="fav-recipes py-5">
+        <div class="container">
+            <h2 class="my-fav-text text-center mb-4">My Favourite Recipes</h2>
+            <div class="row justify-content-center" id="fav-recipes-container">
+                <!-- Recipe cards will be dynamically inserted here -->
+            </div>
+        </div>
+    </section>
+    
+
+    <section class="why-good-food py-5">
+      <div class="container text-center">
+          <h2 class="mb-4">Why We Need Good Food</h2>
+          <div class="row">
+              <div class="col-md-6">
+                  <img src="/Img/Good Food.png" alt="Healthy Food" class="img-fluid rounded">
+              </div>
+              <div class="col-md-6 d-flex align-items-center">
+                  <div>
+                      <p>
+                          Good food is essential to maintain a healthy and active lifestyle. 
+                          It not only fuels our bodies but also nourishes our minds, helping us stay focused, energized, and ready to take on the challenges of daily life. 
+                      </p>
+                      <p>
+                          A balanced diet, rich in essential nutrients, vitamins, and minerals, improves our immune system, supports growth and development, and reduces the risk of chronic diseases.
+                      </p>
+                      <p>
+                          At RecipeTails, we believe that good food should be accessible and easy to prepare for everyone. That's why we provide a wide variety of nutritious recipes to help you and your family enjoy healthy, delicious meals.
+                      </p>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </section>
+
+  <div id="recipe-container" class="row"></div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container text-center">
+            <p class="footer-text">Follow us on:
+              <a href="#" class="text-white ms-2 me-2"><i class="fab fa-facebook"></i> Facebook</a> |
+              <a href="#" class="text-white ms-2 me-2"><i class="fab fa-instagram"></i> Instagram</a> |
+              <a href="#" class="text-white ms-2 me-2"><i class="fab fa-tiktok"></i> Tiktok</a> |
+              <a href="#" class="text-white ms-2 me-2"><i class="fab fa-telegram"></i> Telegram</a>
+            </p><br><br>
+            <p class="footer-p">&copy; RecipeTails of SUTAILS Group. All rights reserved.</p>
+        </div>
+    </footer>
+
+    
+
+    <script src="/Js/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

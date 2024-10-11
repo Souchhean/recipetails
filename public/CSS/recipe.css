@@ -1,0 +1,180 @@
+html, body {
+  height: 100%;
+  margin: 0; 
+  padding: 0; 
+}
+
+body {
+  background-image: linear-gradient(#b3edec, #27d3e7, #739ef3);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; 
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; 
+}
+
+/* Logo */
+.logo-img {
+  border-radius: 50%;
+}
+
+.logo-text{
+font-family: "Barrio", system-ui;
+font-weight:bold ;
+font-style: normal;
+font-size: 20px;
+color: #0a6d72;
+}
+
+/* Navbar Centering */
+.navbar-nav {
+  margin: 0 auto; 
+}
+
+.nav-link{
+font-family: "Barrio", system-ui;
+font-weight:bold ;
+font-style: normal;
+font-size: 20px;
+color: #0a6d72;
+}
+
+
+.container {
+max-width: 1200px;
+margin: 0 auto;
+padding: 20px;
+}
+
+#category-title {
+font-size: 4em;
+font-family: 'Teko', sans-serif;
+font-weight: 600;
+margin: 60px;
+color: #fff;
+text-align: center;
+text-transform: uppercase;
+letter-spacing: 4px;
+position: relative;
+animation: flicker 1.5s infinite alternate;
+text-shadow: 
+    0 0 5px rgba(255, 255, 255, 0.8), /* Outer glow */
+    0 0 10px rgba(255, 255, 255, 0.7), 
+    0 0 20px rgba(0, 153, 255, 0.6), /* Blue glow */
+    0 0 30px rgba(0, 153, 255, 0.5),
+    0 0 40px rgba(0, 153, 255, 0.4), 
+    0 0 70px rgba(0, 153, 255, 0.3), 
+    0 0 100px rgba(0, 153, 255, 0.2);
+}
+
+/* Flicker animation for the neon effect */
+@keyframes flicker {
+0%, 18%, 22%, 25%, 53%, 57%, 100% {
+    text-shadow: 
+        0 0 5px rgba(255, 255, 255, 0.8), 
+        0 0 10px rgba(255, 255, 255, 0.7), 
+        0 0 20px rgba(0, 153, 255, 0.6),
+        0 0 30px rgba(0, 153, 255, 0.5),
+        0 0 40px rgba(0, 153, 255, 0.4), 
+        0 0 70px rgba(0, 153, 255, 0.3),
+        0 0 100px rgba(0, 153, 255, 0.2);
+}
+20%, 24%, 55% {
+    text-shadow: none; /* Flicker off */
+}
+}
+
+#recipe-list {
+display: flex;
+flex-wrap: wrap;
+gap: 20px; 
+justify-content: center; 
+}
+
+/* Card column adjustments for responsiveness */
+@media (min-width: 1200px) {
+.col-md-4 {
+    flex: 1 1 calc(33.333% - 20px); 
+}
+}
+
+@media (min-width: 768px) and (max-width: 1199px) {
+.col-md-4 {
+    flex: 1 1 calc(50% - 20px); 
+}
+}
+
+@media (max-width: 767px) {
+.col-md-4 {
+    flex: 1 1 calc(100% - 20px); 
+}
+}
+
+.card {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+width: 18rem; 
+margin: 10px auto; 
+}
+
+.card-img-top {
+height: 200px; 
+object-fit: cover;
+}
+
+.card-body {
+text-align: center; 
+}
+
+.card-title {
+font-family: cursive;
+font-weight: bold;
+font-size: 1.25rem; 
+margin-bottom: 15px;
+}
+
+.card-text {
+font-family: cursive;
+font-size: 0.9rem;
+line-height: 1.4;  
+color: #666;       
+height: 60px;      
+overflow: hidden;  
+text-overflow: ellipsis; 
+margin-bottom: 15px;  
+}
+
+.btn-primary {
+background-color: #13c9c6;
+color: #302e2e;
+border: none;
+padding: 10px 20px;
+border-radius: 5px;
+}
+
+.btn-primary:hover {
+background-color: #14778d;
+}
+
+.footer {
+background-image: radial-gradient(circle, #5cc5ef, #20bebc, #0e73cc);
+padding: 100px;
+margin-top: auto;
+position: relative;
+z-index: 1;
+box-shadow: 0 -10px 15px rgba(0, 0, 0, 0.2);
+}
+
+.footer-text {
+font-family: cursive;
+font-size: large;
+font-weight: bold;
+}
+
+.footer-p {
+font-family: cursive;
+font-size: larger;
+font-weight: bold;
+}

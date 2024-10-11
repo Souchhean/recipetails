@@ -1,0 +1,200 @@
+html, body {
+  height: 100%; /* Ensure full page height is considered */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+
+body {
+  background-image: linear-gradient(#b3edec, #27d3e7, #739ef3);
+  background-repeat: no-repeat;
+  background-size: cover; /* Ensures the gradient covers the entire page */
+  background-attachment: fixed; /* Keeps the background fixed while scrolling */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensures the background fills the viewport height */
+}
+
+/* Logo */
+.logo-img {
+  border-radius: 50%;
+}
+
+.logo-text{
+font-family: "Barrio", system-ui;
+font-weight:bold ;
+font-style: normal;
+font-size: 20px;
+color: #0a6d72;
+}
+
+/* Navbar Centering */
+.navbar-nav {
+  margin: 0 auto; 
+}
+
+.nav-link{
+font-family: "Barrio", system-ui;
+font-weight:bold ;
+font-style: normal;
+font-size: 20px;
+color: #0a6d72;
+}
+
+
+.contact-info-section {
+color: white;
+padding: 50px 0;
+}
+
+.contact-info-section h2 {
+font-size: 4em;
+font-family: 'Teko', sans-serif;
+font-weight: 600;
+margin: 40px;
+color: #fff;
+text-align: center;
+text-transform: uppercase;
+letter-spacing: 4px;
+position: relative;
+animation: flicker 1.5s infinite alternate;
+text-shadow: 
+  0 0 5px rgba(255, 255, 255, 0.8),
+  0 0 10px rgba(255, 255, 255, 0.7), 
+  0 0 20px rgba(0, 153, 255, 0.6),
+  0 0 30px rgba(0, 153, 255, 0.5),
+  0 0 40px rgba(0, 153, 255, 0.4), 
+  0 0 70px rgba(0, 153, 255, 0.3),
+  0 0 100px rgba(0, 153, 255, 0.2);
+}
+
+/* Flicker animation for the neon effect */
+@keyframes flicker {
+0%, 18%, 22%, 25%, 53%, 57%, 100% {
+    text-shadow: 
+      0 0 5px rgba(255, 255, 255, 0.8), 
+      0 0 10px rgba(255, 255, 255, 0.7), 
+      0 0 20px rgba(0, 153, 255, 0.6),
+      0 0 30px rgba(0, 153, 255, 0.5),
+      0 0 40px rgba(0, 153, 255, 0.4), 
+      0 0 70px rgba(0, 153, 255, 0.3),
+      0 0 100px rgba(0, 153, 255, 0.2);
+}
+20%, 24%, 55% {
+    text-shadow: none; /* Flicker off */
+}
+}
+
+
+.contact-info-section .col-md-4 {
+text-align: center;
+}
+
+.contact-info-section i {
+color: #014788;
+}
+
+.contact-info-section h5 {
+font-family: cursive;
+font-size: 24px;
+font-weight: 600;
+color: #014788;
+}
+
+.contact-info-section .para{
+font-family: cursive;
+font-weight: bold;
+font-size: 30px;
+color: white;
+margin-bottom: 60px
+}
+
+.contact-info-section p {
+font-family: cursive;
+font-size: 20px;
+color: white;
+}
+
+.contact-section {
+padding: 40px 0;
+}
+
+.contact-section h2 {
+text-transform: uppercase;
+background-image: linear-gradient(
+  -225deg,
+  #190075 0%,
+  #034078 29%,
+  #40bcf0 67%,
+  #63ebeb 100%
+);
+background-size: auto auto;
+background-clip: border-box;
+background-size: 200% auto;
+color: #fff;
+background-clip: text;
+border-inline-color: transparent;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+animation: textclip 2s linear infinite;
+display: inline-block;
+font-size: 35px;
+font-family: cursive;
+font-weight: bold;
+}
+
+@keyframes textclip {
+to {
+  background-position: 200% center;
+}
+}
+
+.contact-section form .form-label {
+font-family: cursive;
+font-size: 18px;
+color: #333;
+}
+
+.contact-section form input,
+.contact-section form textarea {
+font-family: cursive;
+font-size: 16px;
+color: #333;
+}
+
+.contact-section form button {
+font-family: cursive;
+font-size: 16px;
+}
+
+.btn{
+background-color: #190075;
+color: white;
+font-family: cursive;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.btn:hover{
+background-color: #739ef3;
+color: white;
+font-family: cursive;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.footer{
+background-image: radial-gradient(circle, #5cc5ef, #20bebc, #0e73cc);
+padding: 100px;
+margin-top: auto;
+position: relative;
+z-index: 1;
+box-shadow: 0 -10px 15px rgba(0, 0, 0, 0.2);
+}
+.footer-text{
+font-family: cursive;
+font-size: large;
+font-weight: bold;
+}
+.footer-p {
+font-family: cursive;
+font-size: larger;
+font-weight: bold;
+}
