@@ -1,0 +1,213 @@
+html, body {
+  height: 100%; 
+  margin: 0; 
+  padding: 0; 
+}
+
+body {
+  background-image: linear-gradient(#b3edec, #27d3e7, #739ef3);
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-attachment: fixed; 
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; 
+}
+
+/* Logo */
+.logo-img {
+  border-radius: 50%;
+}
+
+.logo-text{
+font-family: "Barrio", system-ui;
+font-weight:bold ;
+font-style: normal;
+font-size: 20px;
+color: #0a6d72;
+}
+
+/* Navbar Centering */
+.navbar-nav {
+  margin: 0 auto; 
+}
+
+.nav-link{
+font-family: "Barrio", system-ui;
+font-weight:bold ;
+font-style: normal;
+font-size: 20px;
+color: #0a6d72;
+}
+
+
+.about-us-section {
+  padding: 30px 0;
+}
+
+.about-heading {
+font-size: 4em;
+font-family: 'Teko', sans-serif;
+font-weight: 600;
+margin: 40px;
+color: #fff;
+text-align: center;
+text-transform: uppercase;
+letter-spacing: 4px;
+position: relative;
+animation: flicker 1.5s infinite alternate;
+text-shadow: 
+  0 0 5px rgba(255, 255, 255, 0.8),
+  0 0 10px rgba(255, 255, 255, 0.7), 
+  0 0 20px rgba(0, 153, 255, 0.6),
+  0 0 30px rgba(0, 153, 255, 0.5),
+  0 0 40px rgba(0, 153, 255, 0.4), 
+  0 0 70px rgba(0, 153, 255, 0.3),
+  0 0 100px rgba(0, 153, 255, 0.2);
+}
+
+/* Flicker animation for the neon effect */
+@keyframes flicker {
+0%, 18%, 22%, 25%, 53%, 57%, 100% {
+    text-shadow: 
+      0 0 5px rgba(255, 255, 255, 0.8), 
+      0 0 10px rgba(255, 255, 255, 0.7), 
+      0 0 20px rgba(0, 153, 255, 0.6),
+      0 0 30px rgba(0, 153, 255, 0.5),
+      0 0 40px rgba(0, 153, 255, 0.4), 
+      0 0 70px rgba(0, 153, 255, 0.3),
+      0 0 100px rgba(0, 153, 255, 0.2);
+}
+20%, 24%, 55% {
+    text-shadow: none; /* Flicker off */
+}
+}
+
+.about-us-section p {
+  font-family: cursive ;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.8;
+  color: #333;
+}
+
+.about-us-section img{
+ border: 2px solid;
+ box-shadow: 6px 4px 8px 4px;
+}
+
+/* Services Section */
+
+
+.section-title {
+font-size: 4em;
+font-family: 'Teko', sans-serif;
+font-weight: 600;
+margin: 40px;
+color: #fff;
+text-align: center;
+text-transform: uppercase;
+letter-spacing: 4px;
+position: relative;
+animation: flicker 1.5s infinite alternate;
+text-shadow: 
+  0 0 5px rgba(255, 255, 255, 0.8),
+  0 0 10px rgba(255, 255, 255, 0.7), 
+  0 0 20px rgba(0, 153, 255, 0.6),
+  0 0 30px rgba(0, 153, 255, 0.5),
+  0 0 40px rgba(0, 153, 255, 0.4), 
+  0 0 70px rgba(0, 153, 255, 0.3),
+  0 0 100px rgba(0, 153, 255, 0.2);
+}
+
+/* Flicker animation for the neon effect */
+@keyframes flicker {
+0%, 18%, 22%, 25%, 53%, 57%, 100% {
+    text-shadow: 
+      0 0 5px rgba(255, 255, 255, 0.8), 
+      0 0 10px rgba(255, 255, 255, 0.7), 
+      0 0 20px rgba(0, 153, 255, 0.6),
+      0 0 30px rgba(0, 153, 255, 0.5),
+      0 0 40px rgba(0, 153, 255, 0.4), 
+      0 0 70px rgba(0, 153, 255, 0.3),
+      0 0 100px rgba(0, 153, 255, 0.2);
+}
+20%, 24%, 55% {
+    text-shadow: none; /* Flicker off */
+}
+}
+
+.service-section p {
+  font-family: cursive;
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Team Section */
+.team-section {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh; 
+}
+
+.team-section img {
+width: 250px;
+height: 250px;
+border-radius: 50%;
+border: 5px solid rgb(82, 99, 105);
+}
+
+.team-section h5 {
+font-family: cursive;
+font-size: 30px;
+font-weight: 600;
+color: #000000;
+}
+
+.team-section p {
+font-family: cursive;
+font-size: 20px;
+color: #666;
+}
+
+.team-section .container {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center; 
+}
+
+.team-section .row {
+width: 100%;
+display: flex;
+justify-content: center; 
+}
+
+.team-section .col-md-4 {
+display: flex;
+flex-direction: column;
+align-items: center; 
+}
+
+
+
+.footer{
+  background-image: radial-gradient(circle, #5cc5ef, #20bebc, #0e73cc);
+  padding: 100px;
+  margin-top: auto;
+  position: relative;
+  z-index: 1;
+  box-shadow: 0 -10px 15px rgba(0, 0, 0, 0.2);
+}
+.footer-text{
+  font-family: cursive;
+  font-size: large;
+  font-weight: bold;
+}
+.footer-p {
+  font-family: cursive;
+  font-size: larger;
+  font-weight: bold;
+}

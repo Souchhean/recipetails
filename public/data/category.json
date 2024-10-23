@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Breakfast",
+      "slug": "breakfast"
+    },
+    {
+      "name": "Lunch",
+      "slug": "lunch"
+    },
+    {
+      "name": "Dinner",
+      "slug": "dinner"
+    },
+    {
+      "name": "Dessert",
+      "slug": "dessert"
+    },
+    {
+      "name": "Asian Cuisine",
+      "slug": "asian-cuisine"
+    },
+    {
+      "name": "Seafood",
+      "slug": "seafood"
+    },
+    {
+      "name": "Side Dish",
+      "slug": "side-dish"
+    },
+    {
+      "name": "Healthy Food",
+      "slug": "healthy-food"
+    },
+    {
+      "name": "Vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "name": "Drinks",
+      "slug": "drinks"
+    }
+  ]
+  
